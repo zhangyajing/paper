@@ -1,0 +1,1 @@
+{"virtualbox":{"/data/www/share":{"guestpath":"/data/www/share","hostpath":"/Users/longlijian/Documents/vagrant/share","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/longlijian/Documents/paper/app_env","disabled":false}}}
