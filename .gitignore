@@ -5,6 +5,7 @@
 !paper.doc
 !material
 !1201220801*
+!app_env
 .DS_Store
 material/.DS_Store
 material/*vsd
